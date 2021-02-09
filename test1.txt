@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle Acer
+ Le num‚ro de s‚rie du volume est 42CB-72D8
+
+ R‚pertoire de C:\Users\lpermasse\Desktop\my project
+
+09/02/2021  20:12    <DIR>          .
+09/02/2021  20:12    <DIR>          ..
+09/02/2021  20:12                 0 test1.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  937ÿ086ÿ480ÿ384 octets libres
